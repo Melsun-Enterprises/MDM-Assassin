@@ -32,12 +32,26 @@ MDM Assassin is a powerful tool designed to obliterate MDM restrictions, bypass 
    chmod +x setup.sh && ./setup.sh   # For Linux/Mac
    setup.bat  # For Windows
    ```
+3. Build the project:
+   dotnet build
+   
+5. Run the tool:
+   dotnet run
+
 
 ### 🛠 Usage
-Run the tool from your terminal:
-```sh
-python MDM-Assassin.py
-```
+Remove MDM:
+adb shell pm uninstall -k --user 0 com.android.mdm
+
+## Trigger Bootloop (Soft Brick Method):
+adb shell rm -rf /data/system/gesture.key
+adb reboot
+
+### Factory Reset Patch Override:
+
+bash
+Copy
+Edit
 
 ### 🤝 Contributors
 Want to join the chaos? Submit your pull requests and let's make MDM vendors cry.
@@ -47,5 +61,5 @@ Want to join the chaos? Submit your pull requests and let's make MDM vendors cry
 - **Discord**: [Coming Soon]
 - **Twitter/X**: [@MDM_Assassin](#)
 
-**Let’s build something epic! 🔥**
+🔥 Ready to wipe out restrictions? Let’s build MDM Masterstroke! 🚀😈
 
