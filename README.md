@@ -1,18 +1,19 @@
 # MDM Assassin
+### Fuck outta here, your shit water whip.
 
 ## ⚡ MDM Assassin: The Ultimate MDM Bypass Tool
 
 ### 🚀 About
-MDM Assassin is an advanced tool designed to help users regain control of their devices by bypassing Mobile Device Management (MDM) restrictions. This project is focused on providing a **legal, educational, and ethical** way to understand and work around MDM locks.
+MDM Assassin is a powerful tool designed to obliterate MDM restrictions, bypass limitations, and reclaim full control over your device. Built for those who refuse to be locked down.
 
 **⚠ Disclaimer:** This tool is for **educational and security research purposes only**. Do not use it for unauthorized access or illegal activities.
 
 ### 🔥 Features
-- **MDM Removal** – Remove remote management profiles from enrolled devices.
-- **ADB Automation** – Execute commands to bypass restrictions.
-- **Factory Reset Patch Bypass** – Handle latest security updates with effective resets.
-- **Soft Brick & Boot Loop Trigger** – Force a recovery reset.
-- **MTK & Qualcomm Support** – Works on multiple chipsets.
+✅ MDM Removal – Wipe out corporate control like it never existed
+✅ Factory Reset Bypass – Reset even with the latest security patches
+✅ Bootloop Trigger – Soft brick stubborn devices to force a fresh start
+✅ ADB Mastery – Push, pull, and execute commands like a boss
+✅ MTP Mode QR Generator – Generate QR codes for seamless configurations
 
 ### 📌 Requirements
 - **ADB & Fastboot installed** ([Download](https://developer.android.com/studio/releases/platform-tools))
@@ -38,8 +39,8 @@ Run the tool from your terminal:
 python MDM-Assassin.py
 ```
 
-### 🤝 Contributing
-Want to help? Fork this repo, make your changes, and submit a PR. Join the discussion in the **Issues** section.
+### 🤝 Contributors
+Want to join the chaos? Submit your pull requests and let's make MDM vendors cry.
 
 ### 🌍 Community & Support
 - **Telegram**: [Join Here](#)
